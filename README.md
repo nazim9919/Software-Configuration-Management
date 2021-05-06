@@ -21,6 +21,10 @@ The After a few discussion, we already list a few change request such as below:
   5. The user shall be able to view proper GUI instead of basic GUI design
   6. The user should  be able to use the search bar in order to search any file
   7. The user shall be able to view the E-file in form of folder structure
+  8. The user shall be able to insert image and video instead of document only
+  9. The user shall be able to add new folder and move required file into it
+  10.The user shall be able to sort the files according to name, date or size
+  11.The admin should be able to set the permission to user that restricted as read, write and upload only
 
 
 
